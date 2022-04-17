@@ -1,0 +1,14 @@
+# Authors
+
+코나인:
+  name        : "코나인"
+  bio         : "코딩하는 시내버스 기사"
+  avatar      : "/assets/images/profile-github.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:howtomakehappy.com@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/divide_nconquer"
+
