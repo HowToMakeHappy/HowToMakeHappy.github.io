@@ -2,4 +2,8 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+{%- if page.image -%}
+  <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+{%- endif -%}
+
 <!-- end custom head snippets -->
