@@ -37,3 +37,5 @@ Widget build(BuildContext context) {
   );
 }
 ```
+
+출처 : [https://www.fluttercampus.com/guide/230/setstate-or-markneedsbuild-called-during-build/](https://www.fluttercampus.com/guide/230/setstate-or-markneedsbuild-called-during-build/)
